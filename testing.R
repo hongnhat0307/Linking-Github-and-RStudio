@@ -8,4 +8,8 @@ print("hope this work")
 
 print("what if?")
 
+print("it worked")
+
+print("so now what?")
+
 print("lets try to make conflicting statement")
